@@ -1,0 +1,53 @@
+# 🧭 WHICH BLOCK IS 34?
+### Smart Campus Wayfinding System – Lovely Professional University
+
+**WHICH BLOCK IS 34?** is a Design Thinking project developed to make campus navigation easier at Lovely Professional University (LPU).
+
+The website aims to help new students, parents, visitors, and delivery personnel find Block 34 without confusion through a simple, user-friendly digital navigation experience.
+
+## 🚀 Key Features
+
+- **Step-by-Step Navigation:** Provides a guided route from the LPU Main Gate to Block 34.
+- **Landmark-Based Directions:** Uses recognizable landmarks to simplify navigation.
+- **QR Code Concept:** Designed for quick access through mobile devices.
+- **Mobile-Friendly Design:** Responsive interface for smartphones, tablets, and desktops.
+- **Accessible Interface:** Simple language, readable text, and clear navigation controls.
+- **Arrival Confirmation:** Displays a destination confirmation when users complete the guide.
+- **Visitor Feedback:** Allows users to share their experience and suggest improvements.
+
+## 🎯 Project Objective
+
+To reduce confusion and save time for people who have difficulty locating buildings inside the LPU campus by providing a simple and accessible digital wayfinding solution.
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Web Design
+
+## 👥 Target Users
+
+- New Students (Freshers)
+- Parents and Guardians
+- University Visitors
+- Delivery Personnel
+
+## 🎓 Academic Project
+
+**Course:** INT 335 – Design Thinking  
+**University:** Lovely Professional University (LPU)  
+**Project Name:** WHICH BLOCK IS 34?
+
+## 💡 Future Enhancements
+
+- Real-time GPS navigation
+- Verified campus maps and landmarks
+- Navigation for all university blocks
+- Functional QR code integration
+- Voice-guided directions
+
+**Our Vision:** Making campus navigation smarter, simpler, and more accessible for everyone.
+
+---
+*Developed as an academic Design Thinking project.*
